@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+// Citation credit: code tutorial by React.js
+// https://reactjs.org/tutorial/tutorial.html
 
 ## Available Scripts
 
