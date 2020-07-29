@@ -83,6 +83,7 @@ function Square(props) {
       }
   
     render() {
+      const citation = `This game was created using React.js tutorial code located at https://reactjs.org/tutorial/tutorial.html.`
       const history = this.state.history;
       const current = history[this.state.stepNumber];
       const winner = calculateWinner(current.squares);
